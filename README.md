@@ -2,6 +2,10 @@
 
 - Clone the repository
 
+```shell
+    git clone https://github.com/theJohnCode/HNG-nft_csv_parser.git
+```
+
 - Open your terminal in the same directory
 
 `Run the following`
