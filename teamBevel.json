@@ -1,0 +1,173 @@
+[
+    {
+        "Series Number": "1",
+        "Filename": "adewale-the-amebo",
+        "Description": "Adewale always wants to be in everyone's business.",
+        "Gender": "male",
+        "UUID": "cad316c3-37f8-4b27-9f53-9d803bfcfee7",
+        "Hash": "E71B82700FFE4103D1AD92D1F4D92598945A480ABD0526D0110381362F8B3FAC",
+        "sha256`": "e7e474f2a0060f49560393796032f544f659c105cf74e299a87ec86138b09b7c"
+    },
+    {
+        "Series Number": "2",
+        "Filename": "alli-the-queeny",
+        "Description": "Alli is an LGBT Stan.",
+        "Gender": "male",
+        "UUID": "a57ecda4-a26f-4e97-a757-e1800af39aab",
+        "Hash": "E1ECE1FFACC43C3A856DE6D02185DC046518EE91D7AB934D9AD4051A698046E2",
+        "sha256`": "baae22fc386467fdb4428d2c14746983cd15a833b03af7bfdfdeb1be95c01018"
+    },
+    {
+        "Series Number": "3",
+        "Filename": "aminat-the-snnobish",
+        "Description": "Aminat never really wants to talk to anyone.",
+        "Gender": "female",
+        "UUID": "0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de",
+        "Hash": "02E9B48FA830E813FDBA85F7F3C9B6A2E2122BD5556195B38B6D3E529210DAD6",
+        "sha256`": "a6c901cf242f7c5feab645b25690b71ada0815b4ad5c342ac4d714209aa239c9"
+    },
+    {
+        "Series Number": "4",
+        "Filename": "aminu-the-carpenter",
+        "Description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
+        "Gender": "male",
+        "UUID": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
+        "Hash": "CC58CCBBE5CDDD21A43DC9725920280A02C319C8EE36B9A4F1895C4BCBF412E0",
+        "sha256`": "0555abe6116df42ad1537b26be6787be5cc369485f2ee011ebdfcd63f54a9235"
+    },
+    {
+        "Series Number": "5",
+        "Filename": "chibuike-the-kudibag",
+        "Description": "Chibuike is too rich. Everyone wonders how he got it.",
+        "Gender": "male",
+        "UUID": "5ce854f2-7ac1-46fd-b3fe-57583935d1e5",
+        "Hash": "2E5CD9BB363412B684A2B600B481B44C85781D976FC9DAE17E3CEF26D71E5CB5",
+        "sha256`": "635171e4dfae5ca3dbbd53fa9191e5724a53dc72c1b8ad7addfc1fa20b1cbc74"
+    },
+    {
+        "Series Number": "6",
+        "Filename": "chidinma-the-model",
+        "Description": "From Paris' runways, to London's streets, she's always in demand.",
+        "Gender": "female",
+        "UUID": "c98db72e-49ac-4ca6-89d5-e00f5fbbcc45",
+        "Hash": "2C2515DAB62937727F059931E64CBB23C220B4F8B1C4B2450C11AA60F78F80A0",
+        "sha256`": "89ec4993ad15b624a352724e4c0b6a4932a1faa15c9634969fcf79266a81fec4"
+    },
+    {
+        "Series Number": "7",
+        "Filename": "chioma-pretty- girl",
+        "Description": "Chioma's face card is a 100.",
+        "Gender": "female",
+        "UUID": "182ea888-a85b-42ca-ad73-ed4f8f9aa5c7",
+        "Hash": "1AB4B7688AB80E96C4626A36F8E6CC639CA4A41C4F7ADB2AA78254E7810202F3",
+        "sha256`": "8f3c16233281f9828ed74f68cec08d11470f183c1befa8914c2e8e3a810412a6"
+    },
+    {
+        "Series Number": "8",
+        "Filename": "damilare-the-handsome",
+        "Description": "He's a fine boy. Everyone loves his face(and him).",
+        "Gender": "male",
+        "UUID": "27eca2dc-d7df-474a-8f8f-1858152c711e",
+        "Hash": "0173484DE80338CA9820C30BD58FF7D5F103D1EB7E9D39E2675F582B01747FEB",
+        "sha256`": "813dd50fff9a2625db13fa51aa897406e368331a7a9041aef21905afa6adcbe4"
+    },
+    {
+        "Series Number": "9",
+        "Filename": "ebiowie-the-planter",
+        "Description": "Ebiowei has a reputation for nurturing plants.",
+        "Gender": "male",
+        "UUID": "f1df8270-4d60-4bd4-8959-ba7c384db5c4",
+        "Hash": "CCC0A76A71E4507C7A36C20E9848CD4E0EAD681D75BAB9798FE68D1062304216",
+        "sha256`": "5bcbdb86b5403d30620975e4eb60b7b30c2f7d0a4be76288efccd90a6aa53668"
+    },
+    {
+        "Series Number": "10",
+        "Filename": "emeka-the-businessman",
+        "Description": "Emeka only cares about containers. No time to waste.",
+        "Gender": "male",
+        "UUID": "9b3d75da-4887-4089-aee4-50de3954fdc9",
+        "Hash": "6BB4AD3EF4D1B17FF5D11D0E142A4DAD1A30BB2F14728747FE87019F2073ED9B",
+        "sha256`": "ac281d30cdc977dee28f418f7d3798a1be84a2e1ee6157aea2dfe2d26c57ad5d"
+    },
+    {
+        "Series Number": "11",
+        "Filename": "gbeminyi-the-monk",
+        "Description": "He lives in a monastery off the coast. No one has heard him speak in years.",
+        "Gender": "male",
+        "UUID": "c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb",
+        "Hash": "B819ACA9F1872B50B29ACA04A55EE45CA8CE7A65744A4C641106BA73A209C1B8",
+        "sha256`": "877a739a3f718dbd75d3c2f20b646529697a108d3a8f811c8888d70a46c3aee7"
+    },
+    {
+        "Series Number": "12",
+        "Filename": "henry-the-sportsman",
+        "Description": "He's played every sport known to man. Even cricket.",
+        "Gender": "male",
+        "UUID": "e1225451-bfdf-4a1f-8d37-9cce3a0bd67b",
+        "Hash": "25149DC0C48FE50E18291449491DC02428E9EBF86E018B00547469B6B2B747A4",
+        "sha256`": "a4ad67a6bcd8697364a8485d136f076438b59ef886078e469999e23ddb54db0e"
+    },
+    {
+        "Series Number": "13",
+        "Filename": "mayowa-the-smallie",
+        "Description": "Mayowa is so small but everyone loves him even still.",
+        "Gender": "male",
+        "UUID": "dfbb4163-df24-4d54-b74c-6218a68df8bd",
+        "Hash": "219E3A694AE8B482E274373E106021EBA20953CEE7EE4A1D770BA10918CC2654",
+        "sha256`": "eba54b2155ddd71c0ebcc57e8ca70fd025457895175794081e398b7a378005cd"
+    },
+    {
+        "Series Number": "14",
+        "Filename": "muyiwa-the-stylish",
+        "Description": "Muyiwa has a motto which is never to be caught unfresh.",
+        "Gender": "male",
+        "UUID": "dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7",
+        "Hash": "E06BC9AEA874F64C8641C523799C941F88E50BC1F6BB07762B4DC874F5E9EDE9",
+        "sha256`": "d0a9f5f98654228a8adad343bcc963feb86b3f3c9680102a99806966652907ca"
+    },
+    {
+        "Series Number": "15",
+        "Filename": "nina-paper-chaser",
+        "Description": "Nina na Igbo girl wey like money. Finish.",
+        "Gender": "female",
+        "UUID": "59524227-dc52-407c-8cca-e9e8c5fb3018",
+        "Hash": "ABB924A69C9C5FC50F87EE8A164528273B0D118562F3E598570A48EF03013D42",
+        "sha256`": "63a97d235d56c2d076e6098d84807c2a340a260d613f7ddf86451781820e4ba8"
+    },
+    {
+        "Series Number": "16",
+        "Filename": "oluwaseun-spicy",
+        "Description": "He loves spicy foods. He cooks pepper and sprinkles rice on top.",
+        "Gender": "male",
+        "UUID": "808f7007-6552-4efa-bd13-4b7c337b102b",
+        "Hash": "C74D54554BF05F317597444B4532A543853B6E52304D5916DE666158101842FF",
+        "sha256`": "6cd10c26dbe49a50f6d9b73836392c660849c98c76905187cb9d43d49188bf5c"
+    },
+    {
+        "Series Number": "17",
+        "Filename": "sesan-the-smartie",
+        "Description": "Sesan always comes first in competitions.",
+        "Gender": "male",
+        "UUID": "ba3edda7-8940-4ca4-97ba-826398d5909f",
+        "Hash": "3B476F74BBC12CED2CDE94C64BC496F1281EDEE22C7AA20F91486C7331889F65",
+        "sha256`": "307020d4016bc2695a8504bf91a4b81df1fb8b4eda0a04897f4e8cd376e86d3c"
+    },
+    {
+        "Series Number": "18",
+        "Filename": "tiwa-london",
+        "Description": "If she says she's in London and you see her, you're in London too.",
+        "Gender": "female",
+        "UUID": "78da7aeb-8352-4e25-89ac-dc48b5984089",
+        "Hash": "B9CAD7B34CB93D492D25BF876961EE567174A6F70956D59774329390F649ECFB",
+        "sha256`": "448c1ee30ea8011c21178cbde63d91ccef80e96cd88a1fef3adaf9c05348ff20"
+    },
+    {
+        "Series Number": "19",
+        "Filename": "tunde-yoruba-demon",
+        "Description": "Tunde derives joy in breaking girls heart. It's a lifestyle.\"",
+        "Gender": "male",
+        "UUID": "53b46bd7-a537-402b-b249-0b4074a8faae",
+        "Hash": "854D09E68EB01D88A203C46303B0D3A301F632EE256EAF4406F4C560F30EF3F2",
+        "sha256`": "cee004c836349f747187fec1bd40d2a32dd39fd5d07caa312ba3b87a159c3b1c"
+    }
+]
