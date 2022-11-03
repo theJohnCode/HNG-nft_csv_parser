@@ -1,24 +1,25 @@
 <?php
 
 // Import two required files
-require_once 'SHA256.php';
-require_once 'jsonToCSV.php';
+require_once 'helper/SHA256.php';
+require_once 'helper/jsonToCSV.php';
 
 $feed = '';
 
 // Check how many arguments were passed in the terminal
 if ($argc == 1  || $argv[1] == '--help') {
     // read all the file in the directory and extract the ones that ends in .csv
-    $files = glob("*.csv");
+    $files = glob("csv/*.csv");
 
     foreach ($files as $file) {
         // loop through the files and remove the ones ones with .ouput.csv because we wont be needing it again
-        if (str_contains($file, 'output')) {
-            $files = array_diff($files, array($file));
-            // display it to the user on the terminal
-            print_r($files);
+        if (!str_contains($file, 'output')) {
+            $new = array_diff($files, array($file));
         }
     }
+    // display the new array to the user on the terminal
+    print_r($new);
+
 
     // get the user input from terminal
     $input = (string)readline("Please key in the number of the file to parse: \n");
@@ -30,14 +31,14 @@ if ($argc == 1  || $argv[1] == '--help') {
 if (isset($feed)) {
     $file_array = explode(".", $feed);
 
-    $file_name = $file_array[0];
+    $file_name = explode('/', $file_array[0])[1];
 
     $extension = end($file_array);
     // for optimium security,check if the file has .csv as extension
     if ($extension == 'csv') {
         $column_name = array();
 
-        $final_data = [];
+        // $final_data = [];
 
         // read the content of the file
         $file_data = file_get_contents($feed);
@@ -61,21 +62,31 @@ if (isset($feed)) {
             // hash the json file
             $hash = SHA256::digest($data);
             // add it to the data array
-            $data['sha256`'] = $hash;
+            $data['sha256'] = $hash;
             $final_data[$j] = $data;
+
+            $file = fopen("$file_name.json", "w");
+            //  save it  the to json file
+            fwrite($file, json_encode($final_data));
+            fclose($file);
         }
 
-        $file = fopen("$file_name.json", "w");
-        // save it  the to json file
-        fwrite($file, json_encode($final_data));
-        fclose($file);
+        for ($i = 0; $i < count($final_data); $i++) {
+
+            $file = fopen("nft$file_name$i.json", "w");
+            //  save it  the to json file
+            fwrite($file, json_encode($final_data[$i]));
+            fclose($file);
+        }
 
         // get the json file
+
         $json_filename = "$file_name.json";
         // create a new csv file with the same name
         $newfilename = $file_name . ".output.csv";
         // save the json file to new csv file
         jsonToCSV($json_filename, $newfilename);
+
         exit;
     }
 }
